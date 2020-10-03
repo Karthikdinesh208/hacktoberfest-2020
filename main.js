@@ -329,7 +329,15 @@ let contributers=[
         "github":"https://github.com/mohammedThohif",
         "linkedin":"https://www.linkedin.com/in/mohammed-thohif-1598b7195/",
         "instagram":"https://instagram.com/thwahif09"
-    }
+    },
+	{
+	"name":"Karthik",
+        "college":"SCEM",
+        "image":"images/Karthik.jpg",
+        "github":"https://github.com/karthikdinesh208",
+        "linkedin":"https://www.linkedin.com/in/karthikdinesh208/",
+        "instagram":"https://www.instagram.com/i_em_celab/"
+	}
  ]
 
 
